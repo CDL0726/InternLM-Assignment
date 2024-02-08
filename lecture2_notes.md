@@ -8,4 +8,9 @@ Lagent介绍
 
 模型下载
 ![](./lecture2_img2.png)  
+![](./lecture2_img3.png)  
+![](./lecture2_img4.png) 
+
+
+
 
