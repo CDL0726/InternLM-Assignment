@@ -1,4 +1,4 @@
-##  Lecture1 Notes 
+##  Lecture1_Notes 
 
 # 第1课 《书生·浦语大模型全链路开源体系》陈恺
 ## [课件视频](https://www.bilibili.com/video/BV1Rc411b7ns)  
