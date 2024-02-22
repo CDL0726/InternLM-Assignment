@@ -34,8 +34,9 @@ Lagent介绍
     pip install sentencepiece==0.1.99
     pip install accelerate==0.24.1
     ```
-通用环境配置
-pip换源
+通用环境配置  
+
+pip换源  
 ```pip install -i https://mirrors.cernet.edu.cn/pypi/web/simple some-package```  
 
 升级pip
