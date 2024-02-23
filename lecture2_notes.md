@@ -12,6 +12,9 @@ Lagent介绍
 ![](./lecture2_img4.png) 
 
 ### Hugging Face 模型下载
+
+[如何快速下载huggingface模型 全方法总结](https://zhuanlan.zhihu.com/p/663712983?utm_id=0)  
+
 环境准备
   - 在internStudio平台中选择A100(1/4)的配置, 镜像选择`Cuda11.7-conda`
   - 进入开发机，打开终端，输入`bash` 过入`conda`环境
